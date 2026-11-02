@@ -69,26 +69,6 @@ Deep learning approaches for multi-label chest X-ray classification.
 
 [Explore the repository](https://github.com/NourGaida/pathologie_classification)
 
-### 🧠 SmartCare — Healthcare AI
-
-An ongoing healthcare-oriented AI project.
-
-**Focus areas:**
-- Machine Learning
-- Intelligent healthcare applications
-- AI-driven decision support
-
-[Explore the repository](https://github.com/NourGaida/SmartCare)
-
-### ⚡ Embedded AI & TinyML — ACTIA
-
-Developed an embedded AI deployment pipeline targeting STM32MP platforms.
-
-**Focus areas:**
-- Model optimization
-- Embedded inference
-- Resource-constrained deployment
-- TinyML and edge AI
 
 ### 🔐 LLM-Based Vulnerability Analysis
 
