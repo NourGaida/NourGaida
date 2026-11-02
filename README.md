@@ -21,9 +21,6 @@ My interests include:
 - 🧠 Healthcare AI & Computational Neuroscience
 - 🩻 Medical Imaging & Computer Vision
 - 🤖 Deep Learning & Machine Learning
-- 📡 Biomedical Signal Processing
-- 🔬 Brain-Computer Interfaces (BCI)
-- ⚡ Embedded AI & TinyML
 - 💬 LLMs, RAG & Intelligent Agents
 
 I'm particularly interested in exploring how AI can contribute to medical diagnosis, neurological research, and the development of more intelligent healthcare technologies.
@@ -55,8 +52,6 @@ Python · C/C++ · JavaScript · SQL · Git · Linux · Docker
 - 🧠 Exploring AI applications in neuroscience and neurological disorders.
 - 🩻 Developing advanced medical imaging and computer vision solutions.
 - 🤖 Experimenting with pretrained vision models and multimodal learning.
-- 📡 Exploring biomedical signals and Brain-Computer Interfaces.
-- ⚡ Investigating efficient AI deployment on resource-constrained devices.
 - 💬 Building LLM-powered applications and intelligent systems.
 
 ## 🔬 Featured Projects
@@ -106,58 +101,7 @@ Exploring local LLMs for Linux kernel CVE applicability assessment using kernel 
 - Vulnerability applicability reasoning
 - Structured JSON outputs
 
-## 🎓 Education
 
-**SUP'COM — Higher School of Communications of Tunis**
-
-ICT Engineering Degree | 2024–2027
-
-Specialization: Multimodal Information Application
-
-Interests: Artificial Intelligence · Data Science · Healthcare AI · Signal Processing · Computer Vision
-
-**IPEIM — Preparatory Institute for Engineering Studies of Monastir**
-
-Mathematics & Physics | 2022–2024
-
-## 💼 Experience
-
-**AI & Security Research — Raidium**  
-Investigating probabilistic reasoning for adaptive security tool selection, attack hypothesis generation, and vulnerability prioritization.
-
-**Embedded AI Intern — ACTIA Engineering Services**  
-Developed a TinyML deployment pipeline targeting STM32MP platforms.
-
-**IT Intern — Rosenberger**  
-Worked on IT monitoring and administrative dashboard development.
-
-## 🏆 Certifications & Learning
-
-- NVIDIA — Fundamentals of Deep Learning
-- DeepLearning.AI & Stanford — Supervised Machine Learning
-- TOEIC — 940/990
-- AWS Data Engineering — Learning in progress
-
-## 👩‍💻 Leadership & Activities
-
-**Community Manager — IEEE RAS SUP'COM Student Branch**  
-2025–2026
-
-**Media Manager — Sup'ROBOTS 1.0**  
-2026
-
-Interested in technology communities, scientific exploration, collaborative projects, and knowledge sharing.
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NourGaida&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourGaida&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NourGaida&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 📫 Let's Connect
 
